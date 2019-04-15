@@ -23,7 +23,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="/">
+		<a href="/" onclick="location='/'">
                         <img src="/themes/Freeflow/assets/images/freeflow-color-2.png" alt="freeflowpages">
                     </a>
                 </span>
