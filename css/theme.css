@@ -145,6 +145,11 @@
 .iyo {
 	text-transform: uppercase !important;
 }
+.form-control {
+	min-height: 35px;
+	line-height: 1.42857143;
+	padding: 8px;
+}
 /* Custom, iPhone Retina */
 @media only screen and (min-width : 320px) {
 	.align-left {
