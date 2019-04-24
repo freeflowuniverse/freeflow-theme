@@ -49,9 +49,12 @@
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1"><strong>FreeFlowPages&nbsp</strong>where privacy and social media co-exist.</h1>
 
 		   
-	    <div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4" href="https://itsyou.online/register?client_id=tf_freeflowpages&endpoint=/v1/oauth/authorize&redirect_uri=https://freeflowpages.com/user/auth/external?authclient=itsyouonline&response_type=code&scope=user:name,user:email&xoauth_displayname=freeflowpages#/' ?>">SIGNUP</a> <a class="btn btn-md btn-white-outline display-4" href="/user/auth/external?authclient=itsyouonline">LOGIN</a></div>
-              <span class="ml-3">Secured by <u><a href="https://itsyou.online/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">itsyou.<span class="font-weight-light">online</span> </a></u><span>a secure and private identity service</span></span>
-        </div>
+<div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4" style="padding: 10px 113px;" href="/threebot_login/auth">3BOT Login</a></div>
+<span class="ml-3 mb-3">Secured by <u><a href="https://login.threefold.me/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">3BOT</a></u><span> a secure and private identity service</span></span>
+	</div>
+            <div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4 ml-3" style="margin-top: 15px !important;" href="/user/auth/external?authclient=itsyouonline">IYO Login - Not Recommended</a></div>
+              <span class="ml-3 mbr-white">Secured by <u><a href="https://itsyou.online/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">itsyou.<span class="font-weight-light">online</span> </a></u><span>a secure and private identity service</span></span>
+
     </div>
 
     <div class="mbr-arrow hidden-sm-down" aria-hidden="true">

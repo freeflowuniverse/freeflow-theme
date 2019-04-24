@@ -22,6 +22,7 @@ $userModel = Yii::$app->user->getIdentity();
         <?php endif; ?>
     </a>
 <?php else: ?>
+
     <ul class="nav">
         <li class="dropdown account">
             <a href="#" id="account-dropdown-link" class="dropdown-toggle" data-toggle="dropdown" aria-label="<?= Yii::t('base', 'Profile dropdown') ?>">
