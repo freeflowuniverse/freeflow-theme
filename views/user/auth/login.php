@@ -49,7 +49,7 @@
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1"><strong>FreeFlowPages&nbsp</strong>where privacy and social media co-exist.</h1>
 
 		   
-<div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4" style="padding: 10px 113px;" href="/threebot_login/auth">3BOT Login</a></div>
+<div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4" style="padding: 10px 113px;" href="/user/auth/external?authclient=3bot">3BOT Login</a></div>
 <span class="ml-3 mb-3">Secured by <u><a href="https://login.threefold.me/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">3BOT</a></u><span> a secure and private identity service</span></span>
 	</div>
             <div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4 ml-3" style="margin-top: 15px !important;" href="/user/auth/external?authclient=itsyouonline">IYO Login - Not Recommended</a></div>
