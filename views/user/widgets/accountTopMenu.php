@@ -14,7 +14,7 @@ use \yii\helpers\Url;
 $userModel = Yii::$app->user->getIdentity();
 ?>
 <?php if ($userModel === null): ?>
-    <a href="/user/auth/login" class="btn btn-enter" onclick="location='/user/auth/login'">
+    <a href="#" class="btn btn-enter" onclick="location='/user/auth/login'">
         <?php if (Yii::$app->getModule('user')->settings->get('auth.anonymousRegistration')): ?>
             <?= Yii::t('UserModule.base', 'Sign in / up'); ?>
         <?php else: ?>
