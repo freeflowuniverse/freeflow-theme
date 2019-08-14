@@ -50,7 +50,8 @@
 	<!--<div class="alert alert-danger" role="alert">...</div>-->
 	<!-- end: Alert -->
 
-        <!-- start: second top navigation bar -->
+ 	<!-- start: second top navigation bar -->
+	<?php if(!Yii::$app->user->isGuest) :?>
         <div id="topbar-second" class="topbar">
             <div class="container">
                 <ul class="nav" id="top-menu-nav">
@@ -66,11 +67,14 @@
                 </ul>
             </div>
         </div>
-        <!-- end: second top navigation bar -->
 
-        <?= $content; ?>
+         <?php endif; ?>
 
-        <?php $this->endBody() ?>
+	<!-- end: second top navigation bar -->
+	<?= $content; ?>
+
+	<script src="<?= $this->theme->getBaseUrl(); ?>/js/preprocess.js"></script>
+	<?php $this->endBody() ?>
     </body>
 </html>
 <?php $this->endPage() ?>

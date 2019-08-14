@@ -150,6 +150,19 @@
 	line-height: 1.42857143;
 	padding: 8px;
 }
+
+/* How to login page */
+.cid-rv8UpuO5Xr .display-5 {
+	font-size: 19.2px;
+}
+
+.how_title {
+	color: #232323;
+}
+
+.cid-rm82XpYxpi .navbar-toggleable-sm .navbar-collapse, .cid-rw0tXy9wiK .navbar-toggleable-sm .navbar-collapse {
+	width: 100%;
+}
 /* Custom, iPhone Retina */
 @media only screen and (min-width : 320px) {
 	.align-left {
@@ -161,9 +174,9 @@
 	.cid-rkGoZZVpNp .mbr-section-subtitle {
 		letter-spacing: 0.4rem;
 	}
-	.media-container-column h1 strong {
+/*	.media-container-column h1 strong {
                 display: block;
-        }
+        }*/
 	.display-1 {
 		font-size: 30px;
 	}
