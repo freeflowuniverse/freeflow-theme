@@ -19,7 +19,6 @@
         <?php $this->beginBody() ?>
 	
 	<!-- start: Alert -->
-<div>(<?php Yii::$app -> user;?></div>
 <?php if(!Yii::$app -> user -> isGuest && Yii::$app->user->getCurrentAuthClient() != null && Yii::$app->user->getCurrentAuthClient()->getId() == "itsyouonline") :  ?>
 	<div class="alert alert-danger alert-dismissible" role="alert" style="position: fixed; bottom:0; width: 100%; color:#fff; background-color: #a23e3d; border-color: #a23e3d; margin-bottom: 0; border-radius: 0; text-align: center; z-index: 999; font-size: 18px;">
  		<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
