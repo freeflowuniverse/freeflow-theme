@@ -11,15 +11,15 @@
 }
 
 .colorPrimary {
-    color: #708fa0 !important;
+    color: #2d4052 !important;
 }
 
 .backgroundPrimary {
-    background: #708fa0 !important;
+    background: #2d4052 !important;
 }
 
 .borderPrimary {
-    border-color: #708fa0 !important;
+    border-color: #2d4052 !important;
 }
 
 .colorInfo {
@@ -277,7 +277,7 @@ input[type="select"] {
 }
 
 #topbar-first {
-    background-color: #708fa0;
+    background-color: #2d4052;
     top: 0;
     z-index: 1030;
     color: white;
@@ -479,7 +479,7 @@ input[type="select"] {
 #topbar-first .dropdown.account.open>a,
 #topbar-first .dropdown.account>a:hover,
 #topbar-first .dropdown.account.open>a:hover {
-    background-color: #708fa0;
+    background-color: #2d4052;
 }
 
 #topbar-second {
@@ -618,8 +618,8 @@ input[type="select"] {
 }
 
 .login-container {
-    background-color: #708fa0;
-    background-image: linear-gradient( to right, #708fa0 0%, #8fa7b4 50%, #8fa7b4 100%), linear-gradient(to right, #7f9baa 0%, #bdcbd3 51%, #adbfc9 100%);
+    background-color: #2d4052;
+    background-image: linear-gradient( to right, #2d4052 0%, #8fa7b4 50%, #8fa7b4 100%), linear-gradient(to right, #7f9baa 0%, #bdcbd3 51%, #adbfc9 100%);
     background-size: 100% 100%;
     position: relative;
     padding-top: 40px;
@@ -1171,8 +1171,8 @@ ul.contextMenu li.selected {
 .pagination>.active>span:hover,
 .pagination>.active>a:focus,
 .pagination>.active>span:focus {
-    background-color: #708fa0;
-    border-color: #708fa0;
+    background-color: #2d4052;
+    border-color: #2d4052;
 }
 
 .pagination>li>a,
@@ -1299,7 +1299,7 @@ ul.tab-menu-settings li.active>a {
 .nav-pills .dropdown-menu,
 .nav-tabs .dropdown-menu,
 .account .dropdown-menu {
-    background-color: #708fa0;
+    background-color: #2d4052;
     border: none;
 }
 
@@ -1314,7 +1314,7 @@ ul.tab-menu-settings li.active>a {
 .nav-pills .dropdown-menu li,
 .nav-tabs .dropdown-menu li,
 .account .dropdown-menu li {
-    border-left: 3px solid #708fa0;
+    border-left: 3px solid #2d4052;
 }
 
 .nav-pills .dropdown-menu li a,
@@ -1367,13 +1367,13 @@ ul.tab-menu-settings li.active>a {
 
 .nav-pills.preferences .dropdown.open .dropdown-toggle,
 .nav-pills.preferences .dropdown.open .dropdown-toggle:hover {
-    background-color: #708fa0;
+    background-color: #2d4052;
 }
 
 .nav-pills>li.active>a,
 .nav-pills>li.active>a:hover,
 .nav-pills>li.active>a:focus {
-    background-color: #708fa0;
+    background-color: #2d4052;
 }
 
 .nav-tabs {
@@ -1545,7 +1545,7 @@ ul.tab-menu-settings li.active>a {
 }
 
 .btn-primary {
-    background: #708fa0;
+    background: #2d4052;
     color: #fff !important;
 }
 
@@ -2126,7 +2126,7 @@ a.list-group-item.active:focus {
     a.list-group-item.active:hover,
     a.list-group-item.active:focus {
         border: none !important;
-        background: #708fa0 !important;
+        background: #2d4052 !important;
         color: #fff !important;
     }
 }
@@ -2261,7 +2261,7 @@ a.list-group-item.active:focus {
 }
 
 .tooltip-inner {
-    background-color: #708fa0;
+    background-color: #2d4052;
     max-width: 400px;
     text-align: left;
     font-weight: 300;
@@ -2271,35 +2271,35 @@ a.list-group-item.active:focus {
 }
 
 .tooltip.top .tooltip-arrow {
-    border-top-color: #708fa0;
+    border-top-color: #2d4052;
 }
 
 .tooltip.top-left .tooltip-arrow {
-    border-top-color: #708fa0;
+    border-top-color: #2d4052;
 }
 
 .tooltip.top-right .tooltip-arrow {
-    border-top-color: #708fa0;
+    border-top-color: #2d4052;
 }
 
 .tooltip.right .tooltip-arrow {
-    border-right-color: #708fa0;
+    border-right-color: #2d4052;
 }
 
 .tooltip.left .tooltip-arrow {
-    border-left-color: #708fa0;
+    border-left-color: #2d4052;
 }
 
 .tooltip.bottom .tooltip-arrow {
-    border-bottom-color: #708fa0;
+    border-bottom-color: #2d4052;
 }
 
 .tooltip.bottom-left .tooltip-arrow {
-    border-bottom-color: #708fa0;
+    border-bottom-color: #2d4052;
 }
 
 .tooltip.bottom-right .tooltip-arrow {
-    border-bottom-color: #708fa0;
+    border-bottom-color: #2d4052;
 }
 
 .tooltip.in {
