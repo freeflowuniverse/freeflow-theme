@@ -64,10 +64,8 @@
 <div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4" style="padding: 10px 113px;" href="<?=empty($_SERVER['QUERY_STRING'])? '/user/auth/external?authclient=3bot' : '/user/auth/external?authclient=3bot&' . $_SERVER['QUERY_STRING'] ?>">3BOT Login</a></div>
 <span class="ml-3 mb-3">Secured by <u><a href="https://login.threefold.me/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">3BOT</a></u><span> a secure and private identity service</span></span>
 	</div>
-            <div class="mbr-section-btn py-3"><a class="btn btn-md btn-white-outline display-4 ml-3" style="margin-top: 15px !important;" href="/user/auth/external?authclient=itsyouonline">IYO Login - Not Recommended</a></div>
-              <span class="ml-3 mbr-white">Secured by <u><a href="https://itsyou.online/" class="iyo p-0 text-up.percase font-weight-bold text-white" target="_blank">itsyou.<span class="font-weight-light">online</span> </a></u><span>a secure and private identity service</span></span>
 
-    </div>
+            </div>
 
     <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
         <a href="#next">
