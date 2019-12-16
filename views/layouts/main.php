@@ -17,15 +17,6 @@
     </head>
     <body>
         <?php $this->beginBody() ?>
-	
-	<!-- start: Alert -->
-<?php if(!Yii::$app -> user -> isGuest && Yii::$app->user->getCurrentAuthClient() != null && Yii::$app->user->getCurrentAuthClient()->getId() == "itsyouonline") :  ?>
-	<div class="alert alert-danger alert-dismissible" role="alert" style="position: fixed; bottom:0; width: 100%; color:#fff; background-color: #a23e3d; border-color: #a23e3d; margin-bottom: 0; border-radius: 0; text-align: center; z-index: 999; font-size: 18px;">
- 		<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-  			You're logged in using itsyou.online. Please <a href="/user/account/connected-accounts"><strong style="color: #fff;">Link</strong></a> your 3bot account since itsyou.online login support ends soon
-			</div>
-<?php endif; ?>
-        <!-- end: Alert -->
 
         <!-- start: first top navigation bar -->
         <div id="topbar-first" class="topbar">

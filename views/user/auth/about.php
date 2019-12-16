@@ -59,7 +59,7 @@ i  <section class="menu cid-rw0tXy9wiK" once="menu" id="menu2-1h">
             <h1 class="mbr-section-title py-3 mbr-fonts-style display-1"><strong>FreeFlowPages&nbsp;</strong><strong><br></strong>where privacy and social media co-exist.<br></h1>
             <p class="mbr-text py-3 mbr-fonts-style display-5">Sign up for FreeFlowPages, a decentralised, private and open source social space where you own and control your privacy &amp; personal data. You can invite, share photos and updates with people you know, as well as join private permissioned social spaces, or create your own space for your project, group of friends, initiative or company. And remember, there are no ads and you have full data ownership! <br><strong>&nbsp;</strong><br>We recommend using the 3Bot login app to register. 3Bot login app is a passwordless and fully secure system developed by <a href="https://threefold.tech" target="_blank">TF Tech</a>. Not a single person in the world will be able to login to your account (not even us). Please choose a name, which will later be the address of your digital avatar on the web.&nbsp;</p>
             
-              <span class="ml-3">Secured by <u><a href="https://itsyou.online/" class="iyo p-0 text-uppercase font-weight-bold text-white" target="_blank">itsyou.<span class="font-weight-light">online</span> </a></u><span>a secure and private identity service</span></span>
+              <span class="ml-3">Secured by <u><a href="https://login.threefold.me/" class="iyo p-0 text-uppercase font-weight-bold text-white" target="_blank">3BOT</a></u><span>a secure and private identity service</span></span>
         </div>
     </div>
 
