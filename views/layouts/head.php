@@ -32,4 +32,17 @@
 <meta name="mobile-web-app-capable" content="yes">
 <!-- end: Android Fullscreen -->
 
+<!-- OpenGraph Metadata & Metadata -->
+<meta property="og:title" content="FreeFlowPages">
+<meta property="og:description" content="FreeFlowPages is a decentralised, private, and open source social space where you own and control your privacy & personal data.">
+<meta property="og:image" content="<?= $this->theme->getBaseUrl(); ?>/ico/android-icon-192x192.png">
+<meta property="og:url" content="<?= $this->theme->getBaseUrl(); ?>">
+<meta name="twitter:title" content="FreeFlowPages">
+<meta name="twitter:description" content="FreeFlowPages is a decentralised, private, and open source social space where you own and control your privacy & personal data.">
+<meta name="twitter:image" content="<?= $this->theme->getBaseUrl(); ?>/ico/android-icon-192x192.png">
+<meta name="twitter:card" content="FreeFlowPages">
+<meta name="twitter:url" content="<?= $this->theme->getBaseUrl(); ?>">
+<meta name="keywords" content="ThreeFold, FreeFlowPages , ThreeFold Grid, ThreeFold Token, 3Bot, Autonomous Internet, Decentralized, Decentralization">
+<meta name="description" content="FreeFlowPages is a decentralised, private, and open source social space where you own and control your privacy & personal data.">
+
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="1a5a5241-91cb-4a41-8323-5ba5ec574da0";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
