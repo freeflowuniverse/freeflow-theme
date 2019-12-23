@@ -45,4 +45,7 @@
 <meta name="keywords" content="ThreeFold, FreeFlowPages , ThreeFold Grid, ThreeFold Token, 3Bot, Autonomous Internet, Decentralized, Decentralization">
 <meta name="description" content="FreeFlowPages is a decentralised, private, and open source social space where you own and control your privacy & personal data.">
 
+<?php if ((Yii::$app->request->get('crisp') !== 'false') && ( !isset($_COOKIE["crisp"])|| $_COOKIE["crisp"] === 'true')) : ?>
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="1a5a5241-91cb-4a41-8323-5ba5ec574da0";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<?php endif; ?>
+
